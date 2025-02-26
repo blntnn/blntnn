@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi there
 
-<!--
-**blntnn/blntnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# About Me  
+I am learning programming and machine learning.  
+Interested in chess, data analysis, and new technologies.  
 
-Here are some ideas to get you started:
+## Current Focus  
+- Studying Python and ML  
+- Improving problem-solving skills  
+- Exploring software development  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact  
+- [Telegram](https://t.me/blntnn)  
+- [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/adele-gindullina-85944221a/)  
+
+
+
+
+
