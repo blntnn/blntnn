@@ -11,7 +11,7 @@ Interested in chess, data analysis, and new technologies.
 
 ## Contact  
 - [Telegram](https://t.me/blntnn)  
-- [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/adele-gindullina-85944221a/)  
+- [LinkedIn](https://linkedin.com/in/your-profile](https://www.linkedin.com/in/adele-gindullina-85944221a/)  
 
 
 
